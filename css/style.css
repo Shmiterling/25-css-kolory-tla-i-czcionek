@@ -1,0 +1,24 @@
+body {
+  background-color: antiquewhite;
+  color:darkslateblue;
+}
+h1 {
+  background-color: brown;
+  color:blueviolet
+}
+h1 + p {
+  background-color: coral;
+  color:blue
+}
+h3 {
+  background-color: darkgreen;
+  color:white
+}
+h3 + p {
+  background-color: darkcyan;
+  color:darkred
+}
+ol {
+  background-color: darkgrey;
+  color:darkseagreen
+}
